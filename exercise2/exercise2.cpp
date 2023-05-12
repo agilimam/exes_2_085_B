@@ -57,4 +57,5 @@ int main() {
 	input();
 	binarysearch;
 	return 0;
+
 }
